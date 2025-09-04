@@ -8,7 +8,7 @@ theme:
   favicon: icon/android-chrome-192x192.png
   custom_dir: overrides
   palette:
-    primary: blue
+    primary: brown
   font:
     text: Nunito
   features:
