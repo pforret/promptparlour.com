@@ -21,6 +21,7 @@ theme:
     - navigation.tracking
     - search.highlight
     - search.suggest
+    - toc.integrate
   icon:
     repo: fontawesome/brands/bitbucket
 
